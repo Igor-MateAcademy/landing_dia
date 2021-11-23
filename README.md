@@ -1,6 +1,4 @@
-CREATIVE BAKERY LANDING PAGE
-
-This is a landing page for Creative Bakery, includes following blocks: header, bakery goods, bakershops, about us, contacts, feedback and footer.
+This is a landing page for Dia.
 
 [Figma mockup](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
 
